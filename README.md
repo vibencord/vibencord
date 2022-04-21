@@ -9,7 +9,7 @@
 
 ## Support (Soon)
 
--   *This is not out yet, please wait for a further notice.*
+-   *We do not offer support yet, please wait for a further notice.*
 
 ## Setup (Soon)
 
