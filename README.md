@@ -1,2 +1,3 @@
 # vibencord
-vibenCord is a Fosscord community instance.
+<p align="center">
+  <img width="100" src="ok" />
