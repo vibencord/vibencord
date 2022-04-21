@@ -4,13 +4,13 @@
 <h1 align="center">vibenCord</h1>
 
 
-## [About](https://fosscord.com)
+## NOTE:
+-  :warning: *We do not have a release date for this, please wait for a further notice.*
 
-
-## [Resources](https://docs.fosscord.com/resources/)
+## Support (Soon)
 
 -   *This is not out yet, please wait for a further notice.*
 
-## [Setup](https://docs.fosscord.com/server/setup/)
+## Setup (Soon)
 
 -   *This is not out yet, please wait for a further notice.*
